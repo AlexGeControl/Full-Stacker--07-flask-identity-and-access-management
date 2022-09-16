@@ -31,7 +31,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 jwt==0.6.1
 lazy-object-proxy==1.4.3
-Mako==1.1.1
+Mako==1.2.2
 Markdown==3.2.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
